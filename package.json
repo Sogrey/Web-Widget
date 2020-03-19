@@ -1,0 +1,26 @@
+{
+  "name": "web-widget",
+  "version": "1.0.0",
+  "description": "web组件封装",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sogrey/Web-Widget.git"
+  },
+  "keywords": [
+    "widget"
+  ],
+  "author": "Sogrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sogrey/Web-Widget/issues"
+  },
+  "homepage": "https://github.com/Sogrey/Web-Widget#readme"
+}
